@@ -80,8 +80,8 @@ http://98.94.12.184
 
 ```json
 {
-  "name": "Your Full Name",
-  "email": "your@email.com",
+  "name": "Olowookere Damilola",
+  "email": "mosesajayi458@gmail.com",
   "github": "https://github.com/mosesajayi458-pixel"
 }
 ```
